@@ -41,11 +41,11 @@ Career records extracted from the Annals, documenting appointments and positions
 | ------------- | -------------------------------------------- |
 | bangmok_id    | Links to bangmok_passers.csv                 |
 | sillok_id     | Identifier used in the Annals                |
-| gye           | Administrative category                      |
+| gye           | Rank title (품계, e.g. 통정대부); empty in most records |
 | sa            | Department/ministry                          |
 | jik           | Specific position                            |
 | office_name   | Name of the office held                      |
-| office_grade  | Bureaucratic rank (1-18, where 1 is highest) |
+| office_grade  | Bureaucratic rank (1-18, where 18 is highest: 18 = senior 1st grade 정1품, 1 = junior 9th grade 종9품) |
 | relative_date | Date relative to the king's reign            |
 | solar_date    | Converted Gregorian calendar date            |
 
